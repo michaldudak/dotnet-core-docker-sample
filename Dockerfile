@@ -1,4 +1,4 @@
-FROM michaldudak/dotnet-cli-daily
+FROM michaldudak/dotnet-cli-daily:rc2-002543
 
 RUN mkdir /app
 WORKDIR /app
