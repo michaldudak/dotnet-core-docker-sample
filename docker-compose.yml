@@ -1,0 +1,4 @@
+web:
+  image: michaldudak/dotnet-core-demo
+  ports:
+    - '80:5000'
